@@ -2,7 +2,7 @@
 <a style="text-decoration: none" target="_blank"href="https://github.com/gabrmascarenhas">
 
 <a style="text-decoration: none" target="_blank" href="https://www.linkedin.com/in/gabr-mascarenhas/" >
-<img width="70"src="https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white">
+<img width="70"src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </a>
 </div>
 
