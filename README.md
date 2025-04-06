@@ -52,6 +52,3 @@ As a university student and a tecnology entusiast, i'm trying to learn different
     </tr>
 </table>
 <br>
-
-------
-**Credits for the Github template :** [codediaz](https://github.com/codediaz)
