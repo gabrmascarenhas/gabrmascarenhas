@@ -27,9 +27,9 @@ As a university student and a tecnology entusiast, i'm trying to learn different
 <h2>⭐ | Github Stats </h2>
 
 <div align="center">
-<a href="https://github.com/codediaz">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codediaz&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codediaz&layout=compact&langs_count=7&theme=default"/></a>
+<a href="https://github.com/gabrmascarenhas">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrmascarenhas&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrmascarenhas&layout=compact&langs_count=7&theme=default"/></a>
 </div>
 
 <h2>🛠️ | Learning:</h2>
