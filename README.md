@@ -20,7 +20,7 @@ As a university student and a tecnology entusiast, i'm trying to learn different
 <h2>🔥| My contribution streak</h2>
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=codediaz#version3"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrmascarenhas#version3"/>
   </a>
 </p>
 
@@ -40,7 +40,7 @@ As a university student and a tecnology entusiast, i'm trying to learn different
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=react,,html,css,js"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=react,html,css,js"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
