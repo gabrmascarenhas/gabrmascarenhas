@@ -16,15 +16,15 @@ As a university student and a tecnology entusiast, i'm trying to learn different
 <p>
   Computer science studant at <a href="https://unifor.br">UNIFOR</a> and telecommunications technician graduated from <a href="https://ifce.edu.br/fortaleza">IFCE</a>.
 </p><br>
-
+<!--
 <h2>🔥| My contribution streak</h2>
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrmascarenhas#version3"/>
   </a>
 </p>
+-->
 
-<!-- 
 <h2>⭐ | Github Stats </h2>
 
 <div align="center">
@@ -32,7 +32,7 @@ As a university student and a tecnology entusiast, i'm trying to learn different
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrmascarenhas&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrmascarenhas&layout=compact&langs_count=7&theme=default"/></a>
 </div> 
--->
+
 
 <h2>🛠️ | Learning:</h2>
 <table>
