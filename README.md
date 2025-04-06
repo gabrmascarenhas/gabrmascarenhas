@@ -12,7 +12,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;+I'm+Sergio+Díaz!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;+I'm+Gabriel+Mascarenhas!;" />
 
 <h2>📖 | About me</h2> 
 As a university student and a tecnology entusiast, i'm trying to learn differents languages, libraries and softwares.</h2>
