@@ -17,13 +17,14 @@ As a university student and a tecnology entusiast, i'm trying to learn different
   Computer science studant at <a href="https://unifor.br">UNIFOR</a> and telecommunications technician graduated from <a href="https://ifce.edu.br/fortaleza">IFCE</a>.
 </p><br>
 
-<!-- -->
+<!-- 
 <h2>🔥| My contribution streak</h2>
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrmascarenhas#version3"/>
   </a>
 </p>
+-->
 
 
 <h2>⭐ | Github Stats </h2>
