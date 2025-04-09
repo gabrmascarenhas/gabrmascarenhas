@@ -18,12 +18,7 @@ As a university student and a tecnology entusiast, i'm trying to learn different
 </p><br>
 
 <!-- 
-<h2>🔥| My contribution streak</h2>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrmascarenhas#version3"/>
-  </a>
-</p>
+
 -->
 
 
