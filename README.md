@@ -14,7 +14,7 @@ As a university student and a tecnology entusiast, i'm trying to learn different
 -->
 <h2>📚 | Education</h2>
 <p>
-  Computer science studant at <a href="https://unifor.br">UNIFOR</a> and telecommunications technician graduated from <a href="https://ifce.edu.br/fortaleza">IFCE</a>.
+  Computer science student at <a href="https://unifor.br">UNIFOR</a> and telecommunications technician graduated from <a href="https://ifce.edu.br/fortaleza">IFCE</a>.
 </p><br>
 
 <!-- 
