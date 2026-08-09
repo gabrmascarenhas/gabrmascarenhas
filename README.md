@@ -7,13 +7,13 @@
 <h2>📖 | About me</h2>
 As a university student and a tecnology entusiast, i'm trying to learn differents languages, libraries, frameworks and softwares. For furder contact, please access my social link profile: <a href="https://gabrmascarenhas.vercel.app">Gabriel Mascarenhas</a>.
 
-<!--
+
 <div align="center">
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" />
   <br/>
 </div>
--->
+
 
 <h2>📚 | Education</h2>
 <p>
@@ -38,7 +38,7 @@ As a university student and a tecnology entusiast, i'm trying to learn different
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=oracle,mysql,postgresql"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Tools & OS:</td>
