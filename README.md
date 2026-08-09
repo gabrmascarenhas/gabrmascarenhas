@@ -8,13 +8,6 @@
 As a university student and a tecnology entusiast, i'm trying to learn differents languages, libraries, frameworks and softwares. For furder contact, please access my social link profile: <a href="https://gabrmascarenhas.vercel.app">Gabriel Mascarenhas</a>.
 
 
-<div align="center">
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" />
-  <br/>
-</div>
-
-
 <h2>📚 | Education</h2>
 <p>
   Computer science student at <a href="https://unifor.br">UNIFOR</a> and telecommunications technician graduated from <a href="https://ifce.edu.br/fortaleza">IFCE</a>.
