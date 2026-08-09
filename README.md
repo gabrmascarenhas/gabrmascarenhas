@@ -1,9 +1,11 @@
-
 <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;+I'm+Gabriel+Mascarenhas!;" />
 
-<h2>📖 | About me</h2> 
+<div align="center">
+  <img src="./assets/profile-cat.png" width="130" style="border-radius:50%;" alt="Gabriel Mascarenhas"/>
+</div>
+
+<h2>📖 | About me</h2>
 As a university student and a tecnology entusiast, i'm trying to learn differents languages, libraries, frameworks and softwares. For furder contact, please access my social link profile: <a href="https://gabrmascarenhas.vercel.app">Gabriel Mascarenhas</a>.
-</h2>
 
 <!--
 <div align="center">
@@ -12,25 +14,17 @@ As a university student and a tecnology entusiast, i'm trying to learn different
   <br/>
 </div>
 -->
+
 <h2>📚 | Education</h2>
 <p>
   Computer science student at <a href="https://unifor.br">UNIFOR</a> and telecommunications technician graduated from <a href="https://ifce.edu.br/fortaleza">IFCE</a>.
-</p><br>
+</p>
 
-<!-- 
-
--->
-
-<!--
-<h2>⭐ | Github Stats </h2>
-
+<h2>⭐ | Github Stats</h2>
 <div align="center">
-<a href="https://github.com/gabrmascarenhas">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrmascarenhas&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
--->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrmascarenhas&layout=compact&langs_count=7&theme=default"/></a>
-</div> 
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrmascarenhas&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrmascarenhas&layout=compact&langs_count=8&theme=default"/>
+</div>
 
 <h2>🛠️ | Learning:</h2>
 <table>
@@ -47,8 +41,8 @@ As a university student and a tecnology entusiast, i'm trying to learn different
         <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,oracle"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=github,git,docker"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Tools & OS:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=docker,git,github,apple"/></td>
     </tr>
 </table>
 <br>
