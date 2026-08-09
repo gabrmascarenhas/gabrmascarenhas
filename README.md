@@ -1,7 +1,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;+I'm+Gabriel+Mascarenhas!;" />
 
 <div align="center">
-  <img src="./assets/profile-banner.png" width="100%" alt="Gabriel Mascarenhas"/>
+  <img src="profile-banner.png" width="100%" alt="Gabriel Mascarenhas"/>
 </div>
 
 <h2>📖 | About me</h2>
