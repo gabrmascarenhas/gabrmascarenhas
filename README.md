@@ -36,7 +36,7 @@ As a university student and a tecnology entusiast, i'm trying to learn different
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,python"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
@@ -44,11 +44,11 @@ As a university student and a tecnology entusiast, i'm trying to learn different
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,oracle"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=github"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=github,git,docker"/></td>
     </tr>
 </table>
 <br>
