@@ -1,7 +1,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;+I'm+Gabriel+Mascarenhas!;" />
 
 <div align="center">
-  <img src="./assets/profile-cat.png" width="130" style="border-radius:50%;" alt="Gabriel Mascarenhas"/>
+  <img src="./assets/profile-banner.png" width="100%" alt="Gabriel Mascarenhas"/>
 </div>
 
 <h2>📖 | About me</h2>
@@ -22,15 +22,15 @@ As a university student and a tecnology entusiast, i'm trying to learn different
 
 <h2>⭐ | Github Stats</h2>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrmascarenhas&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrmascarenhas&layout=compact&langs_count=8&theme=default"/>
+  <img height="180em" src="https://github-readme-stats-gray-ten.vercel.app/api?username=gabrmascarenhas&show_icons=true&theme=default"/>
+  <img height="180em" src="https://github-readme-stats-gray-ten.vercel.app/api/top-langs/?username=gabrmascarenhas&layout=compact&langs_count=8&theme=default"/>
 </div>
 
 <h2>🛠️ | Learning:</h2>
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=python,fastapi,java,kotlin,nodejs,express"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
@@ -38,7 +38,7 @@ As a university student and a tecnology entusiast, i'm trying to learn different
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,oracle"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=oracle,mysql,postgresql"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Tools & OS:</td>
