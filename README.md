@@ -2,6 +2,7 @@
 
 <div align="center">
   <img src="profile-banner.png" width="100%" alt="Gabriel Mascarenhas"/>
+  <h6>                                                                     Pluma</h6>
 </div>
 
 <h2>📖 | About me</h2>
